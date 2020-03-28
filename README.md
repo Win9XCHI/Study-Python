@@ -3,7 +3,7 @@
 First project - "Module to upload some files to the remote server"
 
 Description:
-1. Write module to upload some files to the remote server. 
+1. Write module to upload some files to the remote server.
 2. Uploading should be done in parallel. 
 3. Python multiprocessing module should be used.
 4. It should be a method to stop uploading and interrupt all uploading process.
